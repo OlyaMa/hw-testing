@@ -1,0 +1,15 @@
+Website Content License
+-----------------------
+All content on this website is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Images License
+-------------
+mir.jpg: Freeimages.com Content License
+pepsized-americanexpress01.png: Freeimages.com Content License
+pepsized-dinersclub02.png: Freeimages.com Content License
+pepsized-discover.png: Freeimages.com Content License
+pepsized-jcb.png: Freeimages.com Content License
+pepsized-maestro.png: Freeimages.com Content License
+pepsized-mastercard.png: Freeimages.com Content License
+pepsized-visa.png: Freeimages.com Content License
+unionpay.png: Freeimages.com Content License
