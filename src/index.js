@@ -1,0 +1,11 @@
+import "./css/style.css";
+import "./img/mir.jpg";
+import "./img/pepsized-americanexpress01.png";
+import "./img/pepsized-dinersclub02.png";
+import "./img/pepsized-discover.png";
+import "./img/pepsized-jcb.png";
+import "./img/pepsized-maestro.png";
+import "./img/pepsized-mastercard.png";
+import "./img/pepsized-visa.png";
+import "./img/unionpay.png";
+import "./js/app.js";
